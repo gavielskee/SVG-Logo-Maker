@@ -22,5 +22,5 @@ inquirer.prompt([
         message: "Enter a color keyword for the shape (or a hexidecimal number)",
         type: 'input'
     }
-
-]);
+])
+.then()
