@@ -16,7 +16,7 @@ inquirer.prompt([
         name: "shape",
         message: "Please enter the desired shape",
         type: 'list',
-        choices: ['circle', 'triangle', 'square']
+        choices: ['Circle', 'Triangle', 'Square']
     },
     {
         name: "shape-color",
